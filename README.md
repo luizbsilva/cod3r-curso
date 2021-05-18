@@ -4,8 +4,8 @@
 ## Cursos Realizados
 ### Web Moderno com JavaScript COMPLETO + Projetos
 #### Conteúdo Programático;
-    - [ ] Introdução;
-    - [ ] Configuração do Ambiente;
+    - [ ✔ ] Introdução;
+    - [ ✔ ] Configuração do Ambiente;
     - [ ] Javascript: Fundamentos;
     - [ ] Javascript: Estruturas de Controle;
     - [ ] Javascript: Função;
