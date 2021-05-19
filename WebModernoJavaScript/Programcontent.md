@@ -23,10 +23,10 @@
     - ✔ Organização Básica de um Código JS;
     - ✔ Executando JavaScript;
     - ✔ Comentários de Código;
-    - O Básico de Var, Let e Const;
-    - Tipagem Fraca;
-    - Tipos em JavaScript: Number;
-    - Number: Alguns Cuidados;
+    - ✔ O Básico de Var, Let e Const;
+    - ✔ Tipagem Fraca;
+    - ✔ Tipos em JavaScript: Number;
+    - ✔ Number: Alguns Cuidados;
     - Usando Math;
     - Tipos em JavaScript: String;
     - Usando Template Strings;
