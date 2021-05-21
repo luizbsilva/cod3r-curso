@@ -27,12 +27,12 @@
     - ✔ Tipagem Fraca;
     - ✔ Tipos em JavaScript: Number;
     - ✔ Number: Alguns Cuidados;
-    - Usando Math;
-    - Tipos em JavaScript: String;
-    - Usando Template Strings;
-    - Tipos em JavaScript: Boolean;
-    - Tipos em JavaScript: Array;
-    - Tipos em JavaScript: Object;
+    - ✔ Usando Math;
+    - ✔ Tipos em JavaScript: String;
+    - ✔ Usando Template Strings;
+    - ✔ Tipos em JavaScript: Boolean;
+    - ✔ Tipos em JavaScript: Array;
+    - ✔ Tipos em JavaScript: Object;
     - Entendendo o Null & Undefined;
     - Quase Tudo é Função!!!;
     - Exemplos Básicos de Funções #01;
