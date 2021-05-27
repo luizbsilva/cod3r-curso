@@ -7,7 +7,7 @@
     - [ ✔ ] Introdução;
     - [ ✔ ] Configuração do Ambiente;
     - [ ✔ ] Javascript: Fundamentos;
-    - [ ] Javascript: Estruturas de Controle;
+    - [ ✔ ] Javascript: Estruturas de Controle;
     - [ ] Javascript: Função;
     - [ ] Javascript: Objeto;
     - [ ] Javascript: Array;
