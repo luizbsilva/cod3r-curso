@@ -6,7 +6,7 @@
 #### Conteúdo Programático;
     - [ ✔ ] Introdução;
     - [ ✔ ] Configuração do Ambiente;
-    - [ ] Javascript: Fundamentos;
+    - [ ✔ ] Javascript: Fundamentos;
     - [ ] Javascript: Estruturas de Controle;
     - [ ] Javascript: Função;
     - [ ] Javascript: Objeto;
